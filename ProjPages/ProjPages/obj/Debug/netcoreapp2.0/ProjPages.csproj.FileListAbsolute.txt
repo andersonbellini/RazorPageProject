@@ -1,0 +1,11 @@
+C:\Users\hugov\source\repos\ProjPages\ProjPages\bin\Debug\netcoreapp2.0\ProjPages.deps.json
+C:\Users\hugov\source\repos\ProjPages\ProjPages\bin\Debug\netcoreapp2.0\ProjPages.runtimeconfig.json
+C:\Users\hugov\source\repos\ProjPages\ProjPages\bin\Debug\netcoreapp2.0\ProjPages.runtimeconfig.dev.json
+C:\Users\hugov\source\repos\ProjPages\ProjPages\bin\Debug\netcoreapp2.0\ProjPages.dll
+C:\Users\hugov\source\repos\ProjPages\ProjPages\bin\Debug\netcoreapp2.0\ProjPages.pdb
+C:\Users\hugov\source\repos\ProjPages\ProjPages\obj\Debug\netcoreapp2.0\ProjPages.csprojAssemblyReference.cache
+C:\Users\hugov\source\repos\ProjPages\ProjPages\obj\Debug\netcoreapp2.0\ProjPages.csproj.CoreCompileInputs.cache
+C:\Users\hugov\source\repos\ProjPages\ProjPages\obj\Debug\netcoreapp2.0\ProjPages.AssemblyInfoInputs.cache
+C:\Users\hugov\source\repos\ProjPages\ProjPages\obj\Debug\netcoreapp2.0\ProjPages.AssemblyInfo.cs
+C:\Users\hugov\source\repos\ProjPages\ProjPages\obj\Debug\netcoreapp2.0\ProjPages.dll
+C:\Users\hugov\source\repos\ProjPages\ProjPages\obj\Debug\netcoreapp2.0\ProjPages.pdb

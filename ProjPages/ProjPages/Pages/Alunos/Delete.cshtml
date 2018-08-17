@@ -1,0 +1,40 @@
+﻿@page
+@model ProjPages.Pages.Alunos.DeleteModel
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Alunos</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Alunos.nome)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Alunos.nome)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Alunos.cadastro)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Alunos.cadastro)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Alunos.aprovado)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Alunos.aprovado)
+        </dd>
+    </dl>
+    
+    <form method="post">
+        <input type="hidden" asp-for="Alunos.id" />
+        <input type="submit" value="Delete" class="btn btn-default" /> |
+        <a asp-page="./Index">Back to List</a>
+    </form>
+</div>
